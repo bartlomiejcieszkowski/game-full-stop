@@ -1,0 +1,4 @@
+[submodule "third-party/googletest"]
+	path = third-party/googletest
+	url = git@github.com:bartlomiejcieszkowski/googletest.git
+	branch = master
